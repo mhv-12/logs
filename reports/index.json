@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260716-212550-ygnv",
+      "title": "Inquisitor Short",
+      "commanders": [
+        "Inquisitor Short"
+      ],
+      "dateStart": "2026-07-16T13:25:50.000Z",
+      "dateEnd": "2026-07-16T14:46:39.000Z",
+      "dateLabel": "7/16/2026, 9:25:50 PM - 7/16/2026, 10:46:39 PM",
+      "url": "https://mhv-12.github.io/logs/?report=20260716-212550-ygnv",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 23,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 46,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260712-233325-vgsi",
       "title": "Präk",
       "commanders": [

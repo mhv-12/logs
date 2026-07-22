@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260722-222453-3gls",
+      "title": "Inquisitor Short",
+      "commanders": [
+        "Inquisitor Short"
+      ],
+      "dateStart": "2026-07-22T14:24:53.000Z",
+      "dateEnd": "2026-07-22T14:56:04.000Z",
+      "dateLabel": "7/22/2026, 10:24:53 PM - 7/22/2026, 10:56:04 PM",
+      "url": "https://mhv-12.github.io/logs/?report=20260722-222453-3gls",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 31,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 50
+      }
+    },
+    {
       "id": "20260719-191032-rado",
       "title": "Hime Utsumiya",
       "commanders": [

@@ -1,76 +1,48 @@
-{
-  "colorPalette": "electric-blue",
-  "glassSurfaces": false,
-  "glassmorphic": false,
-  "entries": [
-    {
-      "id": "20260722-222453-3gls",
-      "title": "Inquisitor Short",
-      "commanders": [
-        "Inquisitor Short"
+[
+  {
+    "id": "20260719-191032-rado",
+    "title": "Hime Utsumiya",
+    "commanders": [
+      "Hime Utsumiya"
+    ],
+    "dateStart": "2026-07-19T11:10:32.000Z",
+    "dateEnd": "2026-07-19T11:48:21.000Z",
+    "dateLabel": "7/19/2026, 7:10:32 PM - 7/19/2026, 7:48:21 PM",
+    "url": "https://mhv-12.github.io/logs/?report=20260719-191032-rado",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 32,
+          "color": "#ffffff"
+        }
       ],
-      "dateStart": "2026-07-22T14:24:53.000Z",
-      "dateEnd": "2026-07-22T14:56:04.000Z",
-      "dateLabel": "7/22/2026, 10:24:53 PM - 7/22/2026, 10:56:04 PM",
-      "url": "https://mhv-12.github.io/logs/?report=20260722-222453-3gls",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 31,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 37,
-        "avgEnemySize": 50
-      }
-    },
-    {
-      "id": "20260719-191032-rado",
-      "title": "Hime Utsumiya",
-      "commanders": [
-        "Hime Utsumiya"
-      ],
-      "dateStart": "2026-07-19T11:10:32.000Z",
-      "dateEnd": "2026-07-19T11:48:21.000Z",
-      "dateLabel": "7/19/2026, 7:10:32 PM - 7/19/2026, 7:48:21 PM",
-      "url": "https://mhv-12.github.io/logs/?report=20260719-191032-rado",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 32,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 27,
-        "avgEnemySize": 39
-      }
-    },
-    {
-      "id": "20260716-212550-ygnv",
-      "title": "Inquisitor Short",
-      "commanders": [
-        "Inquisitor Short"
-      ],
-      "dateStart": "2026-07-16T13:25:50.000Z",
-      "dateEnd": "2026-07-16T14:46:39.000Z",
-      "dateLabel": "7/16/2026, 9:25:50 PM - 7/16/2026, 10:46:39 PM",
-      "url": "https://mhv-12.github.io/logs/?report=20260716-212550-ygnv",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 23,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 46,
-        "avgEnemySize": 45
-      }
+      "avgSquadSize": 27,
+      "avgEnemySize": 39
     }
-  ]
-}
+  },
+  {
+    "id": "20260716-212550-ygnv",
+    "title": "Inquisitor Short",
+    "commanders": [
+      "Inquisitor Short"
+    ],
+    "dateStart": "2026-07-16T13:25:50.000Z",
+    "dateEnd": "2026-07-16T14:46:39.000Z",
+    "dateLabel": "7/16/2026, 9:25:50 PM - 7/16/2026, 10:46:39 PM",
+    "url": "https://mhv-12.github.io/logs/?report=20260716-212550-ygnv",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 23,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 46,
+      "avgEnemySize": 45
+    }
+  }
+]

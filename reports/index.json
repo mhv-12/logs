@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260723-214137-4uxi",
+      "title": "Inquisitor Short",
+      "commanders": [
+        "Inquisitor Short"
+      ],
+      "dateStart": "2026-07-23T13:41:37.000Z",
+      "dateEnd": "2026-07-23T14:47:04.000Z",
+      "dateLabel": "7/23/2026, 9:41:37 PM - 7/23/2026, 10:47:04 PM",
+      "url": "https://mhv-12.github.io/logs/?report=20260723-214137-4uxi",
+      "summary": {
+        "borderlandsPct": 0.18181818181818182,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260722-222453-nbox",
       "title": "Inquisitor Short",
       "commanders": [

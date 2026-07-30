@@ -4,6 +4,32 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260730-105142-bqkp",
+      "title": "Ebt Baby, Jokajo, Öptussy, Oshirue",
+      "commanders": [
+        "Ebt Baby",
+        "Jokajo",
+        "Öptussy",
+        "Oshirue"
+      ],
+      "dateStart": "2026-07-30T02:51:42.000Z",
+      "dateEnd": "2026-07-30T03:42:39.000Z",
+      "dateLabel": "7/30/2026, 10:51:42 AM - 7/30/2026, 11:42:39 AM",
+      "url": "https://mhv-12.github.io/logs/?report=20260730-105142-bqkp",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 55
+      }
+    },
+    {
       "id": "20260726-190952-bpl2",
       "title": "Hime Utsumiya",
       "commanders": [

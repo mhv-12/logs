@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260801-122214-k504",
+      "title": "Video Game Cmdr Guy",
+      "commanders": [
+        "Video Game Cmdr Guy"
+      ],
+      "guild": {
+        "id": "3DE1ED97-E409-EC11-81A8-C983E8889009",
+        "name": "Fellowship Of The Apocalypse",
+        "tag": "KOIN"
+      },
+      "dateStart": "2026-08-01T04:22:14.000Z",
+      "dateEnd": "2026-08-01T05:05:34.000Z",
+      "dateLabel": "8/1/2026, 12:22:14 PM - 8/1/2026, 1:05:34 PM",
+      "url": "https://mhv-12.github.io/logs/?report=20260801-122214-k504",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 7,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20260730-105142-bqkp",
       "title": "Ebt Baby, Jokajo, Öptussy, Oshirue",
       "commanders": [

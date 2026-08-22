@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260822-134318-mcpe",
+      "title": "Tony The Tortoise",
+      "commanders": [
+        "Tony The Tortoise"
+      ],
+      "guild": {
+        "id": "65A0E5D5-6518-EB11-81AA-A77AA130EAB8",
+        "name": "Flying Tortoises",
+        "tag": "FTL"
+      },
+      "dateStart": "2026-08-22T05:43:18.000Z",
+      "dateEnd": "2026-08-22T06:31:28.801Z",
+      "dateLabel": "8/22/2026, 1:43:18 PM - 8/22/2026, 2:31:28 PM",
+      "url": "https://mhv-12.github.io/logs/?report=20260822-134318-mcpe",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 31,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260816-185711-4xvw",
       "title": "Hime Utsumiya",
       "commanders": [

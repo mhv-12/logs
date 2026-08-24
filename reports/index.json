@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260823-213634-icws",
+      "title": "Mofo Mafia",
+      "commanders": [
+        "Mofo Mafia"
+      ],
+      "guild": {
+        "id": "616AB971-5376-EE11-8465-0228F2FB5E53",
+        "name": "Oóo",
+        "tag": "Roo"
+      },
+      "dateStart": "2026-08-23T13:36:34.000Z",
+      "dateEnd": "2026-08-23T15:08:49.966Z",
+      "dateLabel": "8/23/2026, 9:36:34 PM - 8/23/2026, 11:08:49 PM",
+      "url": "https://mhv-12.github.io/logs/?report=20260823-213634-icws",
+      "summary": {
+        "borderlandsPct": 0.03225806451612903,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 30,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 34
+      }
+    },
+    {
       "id": "20260823-192559-mx4x",
       "title": "Hime Utsumiya",
       "commanders": [

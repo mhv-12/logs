@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260823-192559-mx4x",
+      "title": "Hime Utsumiya",
+      "commanders": [
+        "Hime Utsumiya"
+      ],
+      "guild": {
+        "id": "FE74034D-213F-E411-863C-E4115BDF481D",
+        "name": "Delayed",
+        "tag": "LATE"
+      },
+      "dateStart": "2026-08-23T11:25:59.000Z",
+      "dateEnd": "2026-08-23T12:04:10.410Z",
+      "dateLabel": "8/23/2026, 7:25:59 PM - 8/23/2026, 8:04:10 PM",
+      "url": "https://mhv-12.github.io/logs/?report=20260823-192559-mx4x",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 34,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 34
+      }
+    },
+    {
       "id": "20260822-134318-mcpe",
       "title": "Tony The Tortoise",
       "commanders": [

@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260830-182808-octr",
+      "title": "Hime Utsumiya",
+      "commanders": [
+        "Hime Utsumiya"
+      ],
+      "guild": {
+        "id": "FE74034D-213F-E411-863C-E4115BDF481D",
+        "name": "Delayed",
+        "tag": "LATE"
+      },
+      "dateStart": "2026-08-30T10:28:08.000Z",
+      "dateEnd": "2026-08-30T11:53:56.455Z",
+      "dateLabel": "8/30/2026, 6:28:08 PM - 8/30/2026, 7:53:56 PM",
+      "url": "https://mhv-12.github.io/logs/?report=20260830-182808-octr",
+      "summary": {
+        "borderlandsPct": 0.45454545454545453,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 12,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 10,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260830-115923-e6ui",
       "title": "Ebt Baby",
       "commanders": [

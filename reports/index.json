@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260830-115923-e6ui",
+      "title": "Ebt Baby",
+      "commanders": [
+        "Ebt Baby"
+      ],
+      "guild": {
+        "id": "9C94360D-66E5-E411-8D0D-AC162DAE8ACD",
+        "name": "Stop Farming Me",
+        "tag": "Bags"
+      },
+      "dateStart": "2026-08-30T03:59:23.000Z",
+      "dateEnd": "2026-08-30T06:00:34.173Z",
+      "dateLabel": "8/30/2026, 11:59:23 AM - 8/30/2026, 2:00:34 PM",
+      "url": "https://mhv-12.github.io/logs/?report=20260830-115923-e6ui",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 46,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260829-213317-blrq",
       "title": "Alpha Thug",
       "commanders": [

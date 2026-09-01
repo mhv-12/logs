@@ -4,6 +4,40 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260830-213754-crhb",
+      "title": "Alpha Thug, Mofo Mafia",
+      "commanders": [
+        "Alpha Thug",
+        "Mofo Mafia"
+      ],
+      "guild": {
+        "id": "616AB971-5376-EE11-8465-0228F2FB5E53",
+        "name": "Oóo",
+        "tag": "Roo"
+      },
+      "dateStart": "2026-08-30T13:37:54.000Z",
+      "dateEnd": "2026-08-30T15:11:51.399Z",
+      "dateLabel": "8/30/2026, 9:37:54 PM - 8/30/2026, 11:11:51 PM",
+      "url": "https://mhv-12.github.io/logs/?report=20260830-213754-crhb",
+      "summary": {
+        "borderlandsPct": 0.5,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 15,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260830-182808-octr",
       "title": "Hime Utsumiya",
       "commanders": [

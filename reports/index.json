@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260924-190356-rx6j",
+      "title": "Hime Utsumiya",
+      "commanders": [
+        "Hime Utsumiya"
+      ],
+      "guild": {
+        "id": "FE74034D-213F-E411-863C-E4115BDF481D",
+        "name": "Delayed",
+        "tag": "LATE"
+      },
+      "dateStart": "2026-09-24T11:03:56.000Z",
+      "dateEnd": "2026-09-24T11:51:49.687Z",
+      "dateLabel": "9/24/2026, 7:03:56 PM - 9/24/2026, 7:51:49 PM",
+      "url": "https://mhv-12.github.io/logs/?report=20260924-190356-rx6j",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 12,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260920-185936-6wwy",
       "title": "Hime Utsumiya",
       "commanders": [

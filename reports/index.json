@@ -5,6 +5,34 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260929-183649-5f2l",
+      "title": "Hime Utsumiya",
+      "commanders": [
+        "Hime Utsumiya"
+      ],
+      "guild": {
+        "id": "FE74034D-213F-E411-863C-E4115BDF481D",
+        "name": "Delayed",
+        "tag": "LATE"
+      },
+      "dateStart": "2026-09-29T10:36:49.000Z",
+      "dateEnd": "2026-09-29T11:01:28.445Z",
+      "dateLabel": "9/29/2026, 6:36:49 PM - 9/29/2026, 7:01:28 PM",
+      "url": "https://mhv-12.github.io/logs/?report=20260929-183649-5f2l",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 8,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260929-190920-fc2z",
       "title": "Erza Knightwálkér, Hime Utsumiya",
       "commanders": [

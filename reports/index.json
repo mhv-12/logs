@@ -1,9 +1,38 @@
 {
   "colorPalette": "electric-blue",
-  "glassSurfaces": false,
-  "glassmorphic": false,
-  "axiDesign": false,
+  "axiTheme": "glass",
+  "glass": true,
+  "glassSurfaces": true,
   "entries": [
+    {
+      "id": "20261001-183119-8oc5",
+      "title": "Hime Utsumiya, Tytania Erza",
+      "commanders": [
+        "Hime Utsumiya",
+        "Tytania Erza"
+      ],
+      "guild": {
+        "id": "FE74034D-213F-E411-863C-E4115BDF481D",
+        "name": "Delayed",
+        "tag": "LATE"
+      },
+      "dateStart": "2026-10-01T10:31:19.000Z",
+      "dateEnd": "2026-10-01T11:46:24.918Z",
+      "dateLabel": "10/1/2026, 6:31:19 PM - 10/1/2026, 7:46:24 PM",
+      "url": "https://mhv-12.github.io/logs/?report=20261001-183119-8oc5",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 38
+      }
+    },
     {
       "id": "20260929-183649-5f2l",
       "title": "Hime Utsumiya",

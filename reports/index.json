@@ -5,9 +5,38 @@
   "glassSurfaces": true,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.2"
+    "version": "3.22.6"
   },
   "entries": [
+    {
+      "id": "20261011-220230-0xz9",
+      "title": "The Bloöp",
+      "commanders": [
+        "The Bloöp"
+      ],
+      "guild": {
+        "id": "FE69A624-2F37-F111-BB22-12396678E461",
+        "name": "Kopi Siew",
+        "tag": "DIE"
+      },
+      "dateStart": "2026-10-11T14:02:30.000Z",
+      "dateEnd": "2026-10-11T14:33:00.728Z",
+      "dateLabel": "10/11/2026, 10:02:30 PM - 10/11/2026, 10:33:00 PM",
+      "url": "https://mhv-12.github.io/logs/?report=20261011-220230-0xz9",
+      "publishedBy": "mhv-12",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 14,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 38
+      }
+    },
     {
       "id": "20261010-112426-ex2k",
       "title": "Diamond Scout, Platinum Recruit",

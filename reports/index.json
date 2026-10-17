@@ -5,9 +5,38 @@
   "glassSurfaces": true,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.6"
+    "version": "3.22.7"
   },
   "entries": [
+    {
+      "id": "20261017-111501-betk",
+      "title": "Silver Veteran",
+      "commanders": [
+        "Silver Veteran"
+      ],
+      "guild": {
+        "id": "A76AE61D-37C3-F111-BB1F-12683E7B69EB",
+        "name": "Second Wínd",
+        "tag": "SW"
+      },
+      "dateStart": "2026-10-17T03:15:01.000Z",
+      "dateEnd": "2026-10-17T04:14:41.722Z",
+      "dateLabel": "10/17/2026, 11:15:01 AM - 10/17/2026, 12:14:41 PM",
+      "url": "https://mhv-12.github.io/logs/?report=20261017-111501-betk",
+      "publishedBy": "mhv-12",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 28,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 19
+      }
+    },
     {
       "id": "20261011-220230-0xz9",
       "title": "The Bloöp",

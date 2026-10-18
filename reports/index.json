@@ -9,6 +9,46 @@
   },
   "entries": [
     {
+      "id": "20261018-103457-vd48",
+      "title": "Ebt Baby, Stay Stacked",
+      "commanders": [
+        "Ebt Baby",
+        "Stay Stacked"
+      ],
+      "guild": {
+        "id": "59A0991E-B6D1-E411-A8E7-AC162DAE5A05",
+        "name": "Dead Game So",
+        "tag": "WHAT"
+      },
+      "dateStart": "2026-10-18T02:34:57.000Z",
+      "dateEnd": "2026-10-18T03:50:35.979Z",
+      "dateLabel": "10/18/2026, 10:34:57 AM - 10/18/2026, 11:50:35 AM",
+      "url": "https://mhv-12.github.io/logs/?report=20261018-103457-vd48",
+      "publishedBy": "mhv-12",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 20,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 13,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20261017-111501-betk",
       "title": "Silver Veteran",
       "commanders": [

@@ -5,9 +5,38 @@
   "glassSurfaces": true,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.7"
+    "version": "3.22.9"
   },
   "entries": [
+    {
+      "id": "20260927-130251-gn36",
+      "title": "Alezzea",
+      "commanders": [
+        "Alezzea"
+      ],
+      "guild": {
+        "id": "3067C063-6BA6-F111-BB1F-12683E7B69EB",
+        "name": "Smooth Brain Brigade",
+        "tag": "sBb"
+      },
+      "dateStart": "2026-09-27T05:02:51.000Z",
+      "dateEnd": "2026-09-27T06:01:00.035Z",
+      "dateLabel": "9/27/2026, 1:02:51 PM - 9/27/2026, 2:01:00 PM",
+      "url": "https://mhv-12.github.io/logs/?report=20260927-130251-gn36",
+      "publishedBy": "mhv-12",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 47,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 32
+      }
+    },
     {
       "id": "20261018-103457-vd48",
       "title": "Ebt Baby, Stay Stacked",

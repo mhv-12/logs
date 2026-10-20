@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261020-181846-mdhy",
+      "title": "Hime Utsumiya",
+      "commanders": [
+        "Hime Utsumiya"
+      ],
+      "guild": {
+        "id": "FE74034D-213F-E411-863C-E4115BDF481D",
+        "name": "Delayed",
+        "tag": "LATE"
+      },
+      "dateStart": "2026-10-20T10:18:46.000Z",
+      "dateEnd": "2026-10-20T10:52:17.212Z",
+      "dateLabel": "10/20/2026, 6:18:46 PM - 10/20/2026, 6:52:17 PM",
+      "url": "https://mhv-12.github.io/logs/?report=20261020-181846-mdhy",
+      "publishedBy": "mhv-12",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 12,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 17
+      }
+    },
+    {
       "id": "20260927-130251-gn36",
       "title": "Alezzea",
       "commanders": [

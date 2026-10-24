@@ -9,6 +9,36 @@
   },
   "entries": [
     {
+      "id": "20261024-101449-327f",
+      "title": "Ebt Baby, Platinum Recruit",
+      "commanders": [
+        "Ebt Baby",
+        "Platinum Recruit"
+      ],
+      "guild": {
+        "id": "95708762-3C54-F011-81AC-95DFE50946EB",
+        "name": "Hazardous Guild",
+        "tag": "HZRD"
+      },
+      "dateStart": "2026-10-24T02:14:49.000Z",
+      "dateEnd": "2026-10-24T03:03:57.821Z",
+      "dateLabel": "10/24/2026, 10:14:49 AM - 10/24/2026, 11:03:57 AM",
+      "url": "https://mhv-12.github.io/logs/?report=20261024-101449-327f",
+      "publishedBy": "mhv-12",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 19,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 15
+      }
+    },
+    {
       "id": "20261020-181846-mdhy",
       "title": "Hime Utsumiya",
       "commanders": [

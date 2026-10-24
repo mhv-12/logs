@@ -9,6 +9,36 @@
   },
   "entries": [
     {
+      "id": "20261024-111047-ekn9",
+      "title": "Archy Zenin, Vveridian",
+      "commanders": [
+        "Archy Zenin",
+        "Vveridian"
+      ],
+      "guild": {
+        "id": "A76AE61D-37C3-F111-BB1F-12683E7B69EB",
+        "name": "Second Wínd",
+        "tag": "SW"
+      },
+      "dateStart": "2026-10-24T03:10:47.000Z",
+      "dateEnd": "2026-10-24T04:12:51.359Z",
+      "dateLabel": "10/24/2026, 11:10:47 AM - 10/24/2026, 12:12:51 PM",
+      "url": "https://mhv-12.github.io/logs/?report=20261024-111047-ekn9",
+      "publishedBy": "mhv-12",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 23,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 16
+      }
+    },
+    {
       "id": "20261024-101449-327f",
       "title": "Ebt Baby, Platinum Recruit",
       "commanders": [

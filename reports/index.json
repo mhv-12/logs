@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261025-182912-ht5e",
+      "title": "Erza Knightwálkér",
+      "commanders": [
+        "Erza Knightwálkér"
+      ],
+      "guild": {
+        "id": "FE74034D-213F-E411-863C-E4115BDF481D",
+        "name": "Delayed",
+        "tag": "LATE"
+      },
+      "dateStart": "2026-10-25T10:29:12.000Z",
+      "dateEnd": "2026-10-25T11:05:21.010Z",
+      "dateLabel": "10/25/2026, 6:29:12 PM - 10/25/2026, 7:05:21 PM",
+      "url": "https://mhv-12.github.io/logs/?report=20261025-182912-ht5e",
+      "publishedBy": "mhv-12",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20261024-111047-ekn9",
       "title": "Archy Zenin, Vveridian",
       "commanders": [

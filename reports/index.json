@@ -5,9 +5,38 @@
   "glassSurfaces": true,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.9"
+    "version": "3.22.10"
   },
   "entries": [
+    {
+      "id": "20261102-214255-n8vy",
+      "title": "Poteriaz Kross",
+      "commanders": [
+        "Poteriaz Kross"
+      ],
+      "guild": {
+        "id": "567D4883-1244-43CC-99CE-6BFA27F172CA",
+        "name": "Bellicose Banana Club",
+        "tag": "Bana"
+      },
+      "dateStart": "2026-11-02T13:42:55.000Z",
+      "dateEnd": "2026-11-02T14:27:54.113Z",
+      "dateLabel": "11/2/2026, 9:42:55 PM - 11/2/2026, 10:27:54 PM",
+      "url": "https://mhv-12.github.io/logs/?report=20261102-214255-n8vy",
+      "publishedBy": "mhv-12",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 28,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 40
+      }
+    },
     {
       "id": "20261025-182912-ht5e",
       "title": "Erza Knightwálkér",

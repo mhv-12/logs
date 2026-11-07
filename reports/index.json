@@ -5,9 +5,38 @@
   "glassSurfaces": true,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.10"
+    "version": "3.22.12"
   },
   "entries": [
+    {
+      "id": "20261107-121249-bic3",
+      "title": "Video Game Cmdr Guy",
+      "commanders": [
+        "Video Game Cmdr Guy"
+      ],
+      "guild": {
+        "id": "3DE1ED97-E409-EC11-81A8-C983E8889009",
+        "name": "Fellowship Of The Apocalypse",
+        "tag": "KOIN"
+      },
+      "dateStart": "2026-11-07T04:12:49.000Z",
+      "dateEnd": "2026-11-07T06:33:44.751Z",
+      "dateLabel": "11/7/2026, 12:12:49 PM - 11/7/2026, 2:33:44 PM",
+      "url": "https://mhv-12.github.io/logs/?report=20261107-121249-bic3",
+      "publishedBy": "mhv-12",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 35,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 37
+      }
+    },
     {
       "id": "20261102-214255-n8vy",
       "title": "Poteriaz Kross",

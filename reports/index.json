@@ -5,9 +5,38 @@
   "glassSurfaces": true,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.12"
+    "version": "3.25.0"
   },
   "entries": [
+    {
+      "id": "20261115-175258-m8m1",
+      "title": "Erza Knightwálkér",
+      "commanders": [
+        "Erza Knightwálkér"
+      ],
+      "guild": {
+        "id": "FE74034D-213F-E411-863C-E4115BDF481D",
+        "name": "Delayed",
+        "tag": "LATE"
+      },
+      "dateStart": "2026-11-15T09:52:58.000Z",
+      "dateEnd": "2026-11-15T11:04:33.435Z",
+      "dateLabel": "11/15/2026, 5:52:58 PM - 11/15/2026, 7:04:33 PM",
+      "url": "https://mhv-12.github.io/logs/?report=20261115-175258-m8m1",
+      "publishedBy": "mhv-12",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 25,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 18
+      }
+    },
     {
       "id": "20261107-121249-bic3",
       "title": "Video Game Cmdr Guy",

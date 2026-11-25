@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261125-220822-bcnh",
+      "title": "Enrique Roddriguez",
+      "commanders": [
+        "Enrique Roddriguez"
+      ],
+      "guild": {
+        "id": "2B153F03-DD67-F011-8467-122223FBD123",
+        "name": "No Thoughts Head Empty Just",
+        "tag": "PUSH"
+      },
+      "dateStart": "2026-11-25T14:08:22.000Z",
+      "dateEnd": "2026-11-25T14:50:51.409Z",
+      "dateLabel": "11/25/2026, 10:08:22 PM - 11/25/2026, 10:50:51 PM",
+      "url": "https://mhv-12.github.io/logs/?report=20261125-220822-bcnh",
+      "publishedBy": "mhv-12",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 20,
+            "color": "#64748b"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 3,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20261122-172418-s9x4",
       "title": "Hime Utsumiya",
       "commanders": [

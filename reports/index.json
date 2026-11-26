@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261126-180849-8tsd",
+      "title": "Erza Knightwálkér",
+      "commanders": [
+        "Erza Knightwálkér"
+      ],
+      "guild": {
+        "id": "FE74034D-213F-E411-863C-E4115BDF481D",
+        "name": "Delayed",
+        "tag": "LATE"
+      },
+      "dateStart": "2026-11-26T10:08:49.000Z",
+      "dateEnd": "2026-11-26T11:22:25.052Z",
+      "dateLabel": "11/26/2026, 6:08:49 PM - 11/26/2026, 7:22:25 PM",
+      "url": "https://mhv-12.github.io/logs/?report=20261126-180849-8tsd",
+      "publishedBy": "mhv-12",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 21,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20261125-220822-bcnh",
       "title": "Enrique Roddriguez",
       "commanders": [

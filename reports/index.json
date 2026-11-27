@@ -9,6 +9,36 @@
   },
   "entries": [
     {
+      "id": "20261127-182220-bztz",
+      "title": "Mauri The Great, Mauri Xx",
+      "commanders": [
+        "Mauri The Great",
+        "Mauri Xx"
+      ],
+      "guild": {
+        "id": "7795AC53-EB5D-F111-BB0A-0225ACD401EB",
+        "name": "Adequate Content",
+        "tag": "AC"
+      },
+      "dateStart": "2026-11-27T10:22:20.000Z",
+      "dateEnd": "2026-11-27T11:23:57.802Z",
+      "dateLabel": "11/27/2026, 6:22:20 PM - 11/27/2026, 7:23:57 PM",
+      "url": "https://mhv-12.github.io/logs/?report=20261127-182220-bztz",
+      "publishedBy": "mhv-12",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20261126-180849-8tsd",
       "title": "Erza Knightwálkér",
       "commanders": [
